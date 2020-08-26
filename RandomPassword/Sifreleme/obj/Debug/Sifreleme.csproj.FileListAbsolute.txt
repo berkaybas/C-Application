@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\bin\Debug\Sifreleme.exe.config
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\bin\Debug\Sifreleme.exe
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\bin\Debug\Sifreleme.pdb
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\obj\Debug\Sifreleme.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\obj\Debug\Sifreleme.Form1.resources
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\obj\Debug\Sifreleme.Properties.Resources.resources
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\obj\Debug\Sifreleme.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\obj\Debug\Sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\obj\Debug\Sifreleme.exe
+C:\Users\asus\source\repos\Sifreleme\Sifreleme\obj\Debug\Sifreleme.pdb
